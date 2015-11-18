@@ -13,5 +13,8 @@
     "falcor": "^0.1.14",
     "falcor-express": "^0.1.2",
     "falcor-router": "^0.2.11"
+  },
+  "devDependencies": {
+    "bower": "^1.6.5"
   }
 }
