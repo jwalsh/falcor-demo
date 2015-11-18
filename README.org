@@ -1,0 +1,14 @@
+* Overview
+
+Features and semantics review of Falcor looking at Food Ontologies in particular.
+
+
+- JSONGraph contains the list of nouns and the noun items
+- domain model items are aggregated into NounById objects
+- sequences of those nouns use separate references to them with a lookup
+- Paths are list of keys
+- Keys just provide a lookup
+- PathSets are lists of KeySets that allow lookup into the underlying model (from the JSONGraph)
+
+
+https://netflix.github.io/falcor/doc/global.html#PathSet

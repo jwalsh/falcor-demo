@@ -1,0 +1,168 @@
+almond
+apple
+applesauce
+asparagus
+avocado
+bacon
+bagel
+banana
+barley
+basil
+bean
+beef
+beet
+bell pepper
+biscuit
+brandy
+bread
+broccoli
+brussels sprout
+buckwheat
+butter
+buttermilk
+cabbage
+carrot
+cauliflower
+cayenne pepper
+celery
+cereal
+chard
+cheddar cheese
+cheese
+cherry
+chicken
+chili
+chive
+chocolate
+cider
+cilantro
+cinnamon
+clove
+cocoa
+coconut
+coffee
+cola
+coriander
+corn
+cornbread
+cornmeal
+crab
+cracker
+cranberry juice
+cream
+cucumber
+curry
+date
+dill
+duck
+egg
+eggplant
+english muffin
+fig
+fish
+flour
+flour tortilla
+fruit juice
+garlic
+ginger
+ginger ale
+gluten
+grape
+grape juice
+grapefruit juice
+green bean
+ham
+hazelnut
+honey
+horseradish
+kale
+kiwi
+lamb
+lemon
+lemonade
+lentil
+lettuce
+lime
+lobster
+lupin
+lychee
+mango
+mayonnaise
+melon
+milk
+mushroom
+mustard
+noodle
+nutmeg
+oat
+oil
+olive
+onion
+orange
+orange juice
+oregano
+oyster
+paprika
+parmesan
+parsley
+pasta
+paste
+pea
+peach
+peanut
+peanut butter
+pear
+pecan
+pepper
+peppercorn
+persimmon
+pie
+pineapple
+pineapple juice
+pomegranate
+pork
+potato
+poultry
+prune
+prune juice
+pumpkin
+raisin
+rice
+rosemary
+rye
+salad green
+salmon
+salt
+sausage
+sesame
+shallot
+shellfish
+shortening
+shrimp
+soy
+spaghetti
+split pea
+squash
+strawberry
+sugar
+summer squash
+sweet basil
+tarragon
+thyme
+tomato
+tomato juice
+tortilla
+tree nut
+turkey
+turnip
+turtle
+vanilla
+venison
+vinegar
+walnut
+water
+wheat
+white rice
+wine
+yogurt
+zucchini
