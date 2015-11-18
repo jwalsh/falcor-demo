@@ -1,0 +1,23 @@
+{
+  "name": "falcor-demo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Jason Walsh <j@wal.sh>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jwalsh/falcor-demo",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "rxjs": "~4.0.7",
+    "react": "~0.14.2"
+  }
+}
